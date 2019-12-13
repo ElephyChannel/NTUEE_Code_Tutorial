@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1575268671 source:c:\users\user\desktop\codepractice\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<iostream>
+	<cmath>
+	<iomanip>
+	<iostream>
+	<cmath>
+	<iomanip>
+	<iostream>
+	<iomanip>
+	<cstring>
+	<iostream>
+	<iostream>
+	<iomanip>
+	<iostream>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+
+1569304062 c:\users\user\desktop\codepractice\first.h
+	<iostream>
+
